@@ -1,5 +1,5 @@
 /*
-Name: Benjamin Michaelis
+Programmer: Benjamin Michaelis
 Program: A Chance Game of Craps
 Date: 2/19/2020
 Description: This program will allow a user to play a game of the dice game craps
