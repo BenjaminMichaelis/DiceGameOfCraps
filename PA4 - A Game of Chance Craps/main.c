@@ -1,10 +1,8 @@
 /*
 Name: Benjamin Michaelis
-Class: CptS 121, Spring 2020; Lab Section 10
-Programming Assignment: PA4 - A Chance Game of Craps
+Program: A Chance Game of Craps
 Date: 2/19/2020
 Description: This program will allow a user to play a game of the dice game craps
-Help: How to delay time: stackoverflow.com/questions/158585/how-do-you-add-a-timed-delay-to-a-c-program
 */
 
 #include "game.h"
